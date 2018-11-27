@@ -129,5 +129,6 @@ img {
     margin-right: auto;
 }
 h2{
-text-align:center
+text-align:center;
+  background-color: lightblue;
 }
